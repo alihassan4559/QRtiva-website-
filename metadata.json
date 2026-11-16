@@ -1,0 +1,6 @@
+{
+  "name": "Qora — Free QR Code Generator",
+  "description": "Create customizable, high-resolution QR codes for websites, Wi-Fi, vCards, WhatsApp, and social media. Free forever with PNG, JPG, and SVG downloads and no signup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
